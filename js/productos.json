@@ -1,0 +1,102 @@
+[
+    {
+        "id": "playera1",
+        "titulo": "Playera Azul",
+        "imagen": "./img/playeras/01.jpg",
+        "categoria": {
+            "nombre": "playeras",
+            "id": "playeras"
+        },
+        "precio": 500
+    },
+    {
+        "id": "playera2",
+        "titulo": "Playera Roja",
+        "imagen": "./img/playeras/02.jpg",
+        "categoria": {
+            "nombre": "Playeras",
+            "id": "playeras"
+        },
+        "precio": 500
+    },
+    {
+        "id": "playera3",
+        "titulo": "Playera Verde",
+        "imagen": "./img/playeras/03.jpg",
+        "categoria": {
+            "nombre": "Playeras",
+            "id": "playeras"
+        },
+        "precio": 500
+    },
+    {
+        "id": "playera4",
+        "titulo": "Playera Celeste",
+        "imagen": "./img/playeras/04.jpg",
+        "categoria": {
+            "nombre": "Playeras",
+            "id": "playeras"
+        },
+        "precio": 500
+    },
+    {
+        "id": "playera5",
+        "titulo": "Playera ESRR",
+        "imagen": "./img/playeras/05.jpg",
+        "categoria": {
+            "nombre": "Playeras",
+            "id": "playeras"
+        },
+        "precio": 700
+    },
+    {
+        "id": "playera6",
+        "titulo": "Playera OTAKU",
+        "imagen": "./img/playeras/06.jpg",
+        "categoria": {
+            "nombre": "Playeras",
+            "id": "playeras"
+        },
+        "precio": 700
+    },
+    {
+        "id": "sudadera1",
+        "titulo": "Sudadera c/ cierre",
+        "imagen": "./img/sudaderas/01.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudaderas"
+        },
+        "precio": 900
+    },
+    {
+        "id": "sudadera2",
+        "titulo": "Sudadera Satoru",
+        "imagen": "./img/sudaderas/02.jpg",
+        "categoria": {
+            "nombre": "Sudaderas",
+            "id": "sudaderas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sudadera3",
+        "titulo": "Sudadera Negra",
+        "imagen": "./img/sudaderas/03.png",
+        "categoria": {
+            "nombre": "Sudaderas",
+            "id": "sudaderas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "accesorio1",
+        "titulo": "Gorra",
+        "imagen": "./img/accesorios/01.png",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 400
+    }
+]
