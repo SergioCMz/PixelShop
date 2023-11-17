@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
 
 :root {
-    --clr-main: #071644;
+    --clr-main: #1d2c5b;
     --clr-main-light: #efefef;
     --clr-white: #ececec;
     --clr-gray: #e2e2e2;
@@ -31,7 +31,24 @@ a {
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 4fr;
-    background: url(../img/recursos/background.png) no-repeat center / cover; 
+    background: var(--clr-main);
+}
+
+.site-logo img {
+    margin-top: 10px;
+    width: 70%;
+}
+
+.descripcion {
+    padding: 15px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.texto-descripcion {
+    color: var(--clr-main-light);
+    font-size: 1.3rem;
+    text-align: start;
 }
 
 aside {
@@ -127,6 +144,15 @@ aside {
 .texto-footer {
     color: var(--clr-main-light);
     font-size: .85rem;
+}
+
+.social-media {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.redes {
+    width: 15%;
 }
 
 main {
